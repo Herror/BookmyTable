@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487195867091",
+    "firebase_url": "https://book-my-table-42da6.firebaseio.com",
+    "project_id": "book-my-table-42da6",
+    "storage_bucket": "book-my-table-42da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487195867091:android:6f7a5e28c977b989",
+        "android_client_info": {
+          "package_name": "com.example.android.bookmytable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487195867091-rjafm9g6oi495qql2le00f467937af70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.bookmytable",
+            "certificate_hash": "91f4061da91cd2ecde0faefe76ae91f934843eb5"
+          }
+        },
+        {
+          "client_id": "487195867091-5920o8dce9cbh5s13v3b6ro8o2eps0ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeO8cvh5Wx0TNSq9FTDoMJC2yCdDRp9L8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487195867091-5920o8dce9cbh5s13v3b6ro8o2eps0ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
